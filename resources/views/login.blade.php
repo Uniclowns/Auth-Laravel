@@ -12,7 +12,7 @@
     <div class="container">
         <div class="row" style="display: flex; justify-content: center; align-items: center">
             <div class="col-img">
-                <img src="PET LOGO.png" alt="" width="640" height="640" />
+                <img src="img/PET LOGO.png" alt="" width="640" height="640" />
             </div>
             <div class="col-form">
                 <div class="center">
